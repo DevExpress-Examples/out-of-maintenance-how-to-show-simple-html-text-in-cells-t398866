@@ -1,7 +1,7 @@
 # How to show simple HTML text in cells
 
 
-This sample illustrates how to implement a custom editor to visualize simple HTML. You can use HTML tags (e.g. &lt;b&rt;, &lt;i&rt;, &lt;u&rt;, &lt;s&rt;, &lt;href&rt;) to make your text more informative and interactive.<br><br><img src="https://raw.githubusercontent.com/DevExpress-Examples/how-to-show-simple-html-text-in-cells-t398866/17.2.3+/media/6e0b8bb0-41b3-11e6-80bf-00155d62480c.png"><br><br>The editor was inherited from TextEdit, which already allows drawing simple HTML strings. But, this capability is disabled in TextEdit. To implement it  in our custom editor, override TextEdit's <strong>AllowHtmlString</strong> property to return "true" all the time.<br>
+This sample illustrates how to implement a custom editor to visualize simple HTML. You can use HTML tags (e.g. &lt;b&gt;, &lt;i&gt;, &lt;u&gt;, &lt;s&gt;, &lt;href&gt;) to make your text more informative and interactive.<br><br><img src="https://raw.githubusercontent.com/DevExpress-Examples/how-to-show-simple-html-text-in-cells-t398866/17.2.3+/media/6e0b8bb0-41b3-11e6-80bf-00155d62480c.png"><br><br>The editor was inherited from TextEdit, which already allows drawing simple HTML strings. But, this capability is disabled in TextEdit. To implement it  in our custom editor, override TextEdit's <strong>AllowHtmlString</strong> property to return "true" all the time.<br>
 
 
 ```cs
