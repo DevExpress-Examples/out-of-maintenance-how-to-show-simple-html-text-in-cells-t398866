@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Main.cs](./CS/SimpleHtmlEdit/Main.cs) (VB: [Main.vb](./VB/SimpleHtmlEdit/Main.vb))
+* [Program.cs](./CS/SimpleHtmlEdit/Program.cs) (VB: [Program.vb](./VB/SimpleHtmlEdit/Program.vb))
+<!-- default file list end -->
 # How to show simple HTML text in cells
 
 
